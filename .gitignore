@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and local image crop directories
+Cropped_Rows/
+auto_cropped_rows/
+splitted_pdf/
+poppler-extracted/
+*.zip
+
+# Local configuration and status files
+pipeline_status.json
+row_coords.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
