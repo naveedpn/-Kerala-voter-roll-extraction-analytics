@@ -56,6 +56,28 @@ This project bridges the gap between raw, static electoral PDF documents and act
 
 ---
 
+## 📸 Screenshots
+
+### 1. Control Panel & Setup Home Screen
+![Control Panel Home Screen](screenshots/Homepage.png)
+
+### 2. Active Extraction Progress (Process-Isolated Live Rings)
+![Active Extraction Progress](screenshots/Loading.png)
+
+### 3. Analytics Hub & Ward Datasets Selection
+![Analytics Hub Dashboard](screenshots/Analytics.png)
+
+### 4. Demographics Visualizations (Gender Ratios & Age Cohorts)
+![Demographics Visualizations 1](screenshots/Graphs.png)
+
+### 5. Demographics Visualizations (Registration Waves & Households)
+![Demographics Visualizations 2](screenshots/Graphs2.png)
+
+### 6. Searchable Voter Database Explorer
+![Voter Database Explorer](screenshots/Searchable%20database.png)
+
+---
+
 ## 📈 Surya Malayalam OCR Efficiency & Performance
 
 ### Why Surya OCR?
